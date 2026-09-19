@@ -1,16 +1,31 @@
-## Hi there 👋
+# 💫 About Me:
+Chill music, good coffee, strange ideas & projects that probably didn't need to exist.
 
-<!--
-**dmsRosa6/dmsRosa6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmsrosa) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dmsRosa6&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dmsRosa6&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dmsRosa6&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently building
+
+[**Chirp**](https://github.com/dmsRosa6/Chirp)
+message broker experiments in Go
+
+## 🔩 Other Projects
+
+[**Glyph**](https://github.com/dmsRosa6/Glyph)
+terminal UI framework
+
+[**Kerberos**](https://github.com/dmsRosa6/KerberosFS)
+a file storage service that uses kerberos 
+
+### ✍️ A thought worth keeping
+
+> *love the life you live.*
+>
+> — Bob Marley
