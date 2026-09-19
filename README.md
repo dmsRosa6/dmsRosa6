@@ -7,9 +7,7 @@ Chill music, good coffee, strange ideas & projects that probably didn't need to 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dmsRosa6&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=dmsRosa6&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dmsRosa6&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🛠️ Currently building
 
@@ -26,6 +24,6 @@ a file storage service that uses kerberos
 
 ### ✍️ A thought worth keeping
 
-> *love the life you live.*
+> *Live the life you love. Love the life you live.*
 >
 > — Bob Marley
