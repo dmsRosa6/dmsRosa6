@@ -22,7 +22,7 @@ terminal UI framework
 [**Kerberos**](https://github.com/dmsRosa6/KerberosFS)
 a file storage service that uses kerberos 
 
-### ✍️ A thought worth keeping
+## ✍️ A thought worth keeping
 
 > *Live the life you love. Love the life you live.*
 >
